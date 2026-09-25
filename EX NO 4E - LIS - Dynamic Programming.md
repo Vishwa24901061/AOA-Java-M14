@@ -1,6 +1,6 @@
 # EX 4E Longest Increasing Subsequence – Dynamic Programming
 
-## DATE: 26.8.26
+## DATE: 03/09/2026
 
 ## AIM:
 
@@ -26,8 +26,9 @@ To write a Java program to compute the length of the **Longest Increasing Subseq
 
 ```java
 /*
-Developed by: PRIYANGHA G
-Register Number: 212223040157
+Developed by: Vishwa V
+Register Number:  212224110062
+
 
 */
 
